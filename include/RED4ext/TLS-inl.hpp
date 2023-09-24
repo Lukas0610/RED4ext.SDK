@@ -1,4 +1,5 @@
 #pragma once
+#include <intrin.h>
 
 #ifdef RED4EXT_STATIC_LIB
 #include <RED4ext/TLS.hpp>
